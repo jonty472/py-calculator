@@ -1,2 +1,2 @@
 # py-calculator
-attempting to make calculator with python
+attempting to make a calculator with python and tkinter
