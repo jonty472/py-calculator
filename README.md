@@ -1,2 +1,4 @@
 # py-calculator
-attempting to make a calculator with python and tkinter
+python calculator made with tkinter. 
+
+![](C:\wsl\py-calculator\py-calculator)
