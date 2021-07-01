@@ -1,4 +1,4 @@
 # py-calculator
 python calculator made with tkinter. 
 
-![](C:\wsl\py-calculator\py-calculator.png)
+![Image of Python Calculator](https://github.com/JontyBurden/py-calculator/blob/main/py-calculator.PNG)

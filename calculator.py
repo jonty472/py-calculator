@@ -18,6 +18,7 @@ class Calculator:
         # frame
         mainframe = ttk.Frame(root, padding="3 3 12 12")
         mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
+    
         root.columnconfigure(0, weight=1)
         root.rowconfigure(0, weight=1)
        
@@ -53,7 +54,7 @@ class Calculator:
     
     def set_text(self, text):
         """
-        entry from button press
+        entry from button
         """
         self.calcEntry.insert(END, text)
         return
@@ -70,7 +71,7 @@ class Calculator:
         
     def clear_text(self):
         """
-        equivalent to C on calculator
+        clears the entry widget
         """
         self.calcEntry.delete(0, END)
 
